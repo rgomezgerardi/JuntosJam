@@ -73,3 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+builds/v02/Windows/JuntosJam/Saved/Crashes/_0000/CrashContext.runtime-xml
+builds/v02/Windows/JuntosJam/Saved/Crashes/_0000/UEMinidump.dmp
+builds/v02/Windows/JuntosJam/Saved/Crashes/_0000/JuntosJam.log
