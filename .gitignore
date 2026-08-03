@@ -190,3 +190,14 @@ builds/V05/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profi
 builds/V05/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.json
 builds/V05/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_crash_diagnostic.json
 builds/V05/Windows/Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.json
+builds/V07/Windows/NOTICES.txt
+builds/V07/Windows/Manifest_UFSFiles_Win64.txt
+builds/V07/Windows/Manifest_NonUFSFiles_Win64.txt
+builds/V07/Windows/JuntosJam/Content/Paks/JuntosJam-Windows.utoc
+builds/V07/Windows/JuntosJam/Content/Paks/JuntosJam-Windows.ucas
+builds/V07/Windows/JuntosJam/Content/Paks/JuntosJam-Windows.pak
+builds/V07/Windows/JuntosJam/Content/Paks/global.utoc
+builds/V07/Windows/JuntosJam/Content/Paks/global.ucas
+builds/V07/Windows/Engine/Content/Slate/Cursor/invisible.cur
+builds/V07/Windows/Engine/Content/Renderer/TessellationTable.bin
+builds/V07/Windows/Engine/Config/StagedBuild_JuntosJam.ini
