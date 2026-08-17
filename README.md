@@ -1,5 +1,7 @@
 # Let's Save Marco
 
+<img width="315" height="250" alt="image" src="https://github.com/user-attachments/assets/1a3f831f-e2b3-4f77-b8bd-0be02fd454f0" />
+
 Proyecto desarrollado para la **Juntos Game Jam**.
 
 ## Tecnologías
